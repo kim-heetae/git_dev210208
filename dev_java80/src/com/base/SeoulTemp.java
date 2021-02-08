@@ -1,6 +1,5 @@
 package com.base;
 
-import javax.swing.JFrame;
 //괄호가 있는 경우 세가지에 대해 말할 수 있다.
 //메소드, 생성자, Casting연산자((int)같은것) 뿐이다.
 public class SeoulTemp {
